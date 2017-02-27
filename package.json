@@ -1,0 +1,26 @@
+{
+  "name": "hexo-tag-imagemodal",
+  "version": "0.0.1",
+  "description": "Hexo Image modal tag",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeWaster/hexo-tag-imagemodal.git"
+  },
+  "keywords": [
+    "hexo",
+    "image",
+    "caption",
+    "modal",
+    "tag"
+  ],
+  "author": "Joonas Reinikka <joonas.reinikka@gmail.com> (http://www.joonasreinikka.com)",
+  "bugs": {
+    "url": "https://github.com/DeWaster/hexo-tag-imagemodal/issues"
+  },
+  "homepage": "https://github.com/DeWaster/hexo-tag-imagemodal#readme",
+  "dependencies": {
+    "hexo-util": "^0.6.0"
+  },
+  "license": "MIT"
+}
